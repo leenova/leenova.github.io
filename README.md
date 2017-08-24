@@ -1,2 +1,0 @@
-# leenova.github.io
-blog
